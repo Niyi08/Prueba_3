@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.s_ss2k5_c_c_object_id ON estudiante.stage_ss2k5_check_constraints(object_id);

@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.s_ss2k5_foreign_keys_object_id ON estudiante.stage_ss2k5_fn_keys(object_id);

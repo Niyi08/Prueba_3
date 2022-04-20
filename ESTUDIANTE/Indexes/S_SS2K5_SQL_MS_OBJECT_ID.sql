@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.s_ss2k5_sql_ms_object_id ON estudiante.stage_ss2k5_sql_modules(object_id);

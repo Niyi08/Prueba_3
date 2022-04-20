@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.ss2k5_table_privileges_db_id ON estudiante.ss2k5_table_privileges(db_id);

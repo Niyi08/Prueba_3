@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.ss2k5_t_p_table_schema ON estudiante.ss2k5_table_privileges(table_schema);

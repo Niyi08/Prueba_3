@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.s_ss2k5_objects_schema_id ON estudiante.stage_ss2k5_objects(schema_id);

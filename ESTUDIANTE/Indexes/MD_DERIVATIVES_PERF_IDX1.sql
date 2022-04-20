@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.md_derivatives_perf_idx1 ON estudiante.md_derivatives(src_type,derivative_reason);

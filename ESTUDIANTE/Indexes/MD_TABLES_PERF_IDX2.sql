@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.md_tables_perf_idx2 ON estudiante.md_views(UPPER("VIEW_NAME"),schema_id_fk);

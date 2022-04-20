@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.s_ss2k5_fn_ks_dbid_gen_fk ON estudiante.stage_ss2k5_fn_keys(dbid_gen_fk);

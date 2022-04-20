@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.md_state_type__id ON estudiante.md_applicationfiles("STATE","TYPE","ID");

@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.md_app_file_type_idx ON estudiante.md_applicationfiles("TYPE","ID");

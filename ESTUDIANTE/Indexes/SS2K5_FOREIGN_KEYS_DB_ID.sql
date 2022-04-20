@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.ss2k5_foreign_keys_db_id ON estudiante.ss2k5_foreign_keys(db_id);

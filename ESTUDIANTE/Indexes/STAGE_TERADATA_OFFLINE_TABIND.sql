@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.stage_teradata_offline_tabind ON estudiante.stage_teradata_offline_tables(dbname);

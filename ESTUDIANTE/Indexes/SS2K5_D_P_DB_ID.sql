@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.ss2k5_d_p_db_id ON estudiante.ss2k5_database_principals(db_id);

@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.s_ss2k5_columns_obj_ind ON estudiante.stage_ss2k5_columns(svrid_fk,dbid_gen_fk,object_id);

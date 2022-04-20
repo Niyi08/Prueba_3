@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.ss2k5_server_principals_sid ON estudiante.ss2k5_server_principals("SID");

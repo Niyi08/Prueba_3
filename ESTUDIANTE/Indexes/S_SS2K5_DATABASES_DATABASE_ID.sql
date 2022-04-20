@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.s_ss2k5_databases_database_id ON estudiante.stage_ss2k5_databases(database_id);

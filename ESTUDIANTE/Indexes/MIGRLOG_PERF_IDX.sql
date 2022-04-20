@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.migrlog_perf_idx ON estudiante.migrlog(ref_object_id,severity);

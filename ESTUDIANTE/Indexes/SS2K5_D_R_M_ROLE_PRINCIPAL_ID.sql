@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.ss2k5_d_r_m_role_principal_id ON estudiante.ss2k5_database_role_members(role_principal_id);

@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.ss2k5_d_p_default_schema_name ON estudiante.ss2k5_database_principals(default_schema_name);

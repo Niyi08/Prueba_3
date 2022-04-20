@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.s_ss2k5_columns_column_id ON estudiante.stage_ss2k5_columns(column_id);

@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.ss2k5_i_c_object_id ON estudiante.ss2k5_identity_columns(object_id);

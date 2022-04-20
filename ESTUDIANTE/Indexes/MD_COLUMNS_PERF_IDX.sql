@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.md_columns_perf_idx ON estudiante.md_columns(table_id_fk,UPPER(TRIM("COLUMN_NAME")),"ID");

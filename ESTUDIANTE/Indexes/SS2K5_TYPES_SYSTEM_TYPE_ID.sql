@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.ss2k5_types_system_type_id ON estudiante.ss2k5_types(system_type_id);

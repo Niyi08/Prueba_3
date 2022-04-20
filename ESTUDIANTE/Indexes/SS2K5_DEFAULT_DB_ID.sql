@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.ss2k5_default_db_id ON estudiante.ss2k5_default_constraints(db_id);

@@ -1,0 +1,4 @@
+CREATE OR REPLACE NONEDITIONABLE TYPE estudiante.name_and_count_t IS OBJECT (
+  OBJECT_NAME varchar2(30),
+  UPDATE_COUNT INTEGER);
+/

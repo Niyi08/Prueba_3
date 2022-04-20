@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.md_tables_perf_idx1 ON estudiante.md_tables(UPPER("TABLE_NAME"),schema_id_fk);

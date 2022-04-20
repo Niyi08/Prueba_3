@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.s_ss2k5_f_k_c_parent_ot_id ON estudiante.stage_ss2k5_fn_key_columns(parent_object_id);

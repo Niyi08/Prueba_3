@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.ss2k5_tables_schema_id ON estudiante.ss2k5_tables(schema_id);

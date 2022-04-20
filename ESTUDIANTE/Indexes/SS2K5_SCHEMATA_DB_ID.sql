@@ -1,0 +1,1 @@
+CREATE INDEX estudiante.ss2k5_schemata_db_id ON estudiante.ss2k5_schemata(db_id);
